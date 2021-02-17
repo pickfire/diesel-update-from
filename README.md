@@ -1,8 +1,11 @@
 Diesel multi-join experiment
 ============================
 
+Previous: https://github.com/pickfire/diesel-multi-join-play
+Next: https://github.com/pickfire/diesel-join-not-exist
+
 After getting footguns in sequelize and gorm, just want to try out diesel and
-state of diesel. Previously, https://github.com/pickfire/diesel-multi-join-play
+state of diesel.
 
 Now starting to get hang of diesel after trying to contribute docs even though
 I am confused myself, thanks to @weiznich comments I am able to learn quickly
