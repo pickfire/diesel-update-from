@@ -1,5 +1,5 @@
-Diesel multi-join experiment
-============================
+Diesel update-from experiment
+=============================
 
 Previous: https://github.com/pickfire/diesel-multi-join-play
 Next: https://github.com/pickfire/diesel-join-not-exist
